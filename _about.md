@@ -5,3 +5,5 @@ Curso: Análise de Dados
 Intituição: SENAC/RJ (Santa Luzia)
 
 Professor:  Cássio Ribeiro
+
+Data de criação: 8 de jun de 2025.
