@@ -1,4 +1,4 @@
-Repositório de códigos referentes as atividades de lógica de programação com python
+Repositório de códigos referentes às atividades de lógica de programação com python
 
 Curso: Análise de Dados 
 
